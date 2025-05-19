@@ -33,7 +33,6 @@ bash
 git clone [your-repository-url]
 cd semestral-project-main
 
----------------------------------------------------------------------------------------------------------
 2. Backend Setup
 
 1. Navigate to the backend directory:
@@ -53,6 +52,7 @@ PORT=3000
 
 Replace `your_password` with your MySQL password.
 
+---------------------------------------------------------------------------------------------------------
 4. Set up the database:
    - Open MySQL command line
    - Run the following SQL commands:
